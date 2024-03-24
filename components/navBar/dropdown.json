@@ -1,0 +1,46 @@
+{
+  "partners": [
+    { "name": "Partner", "to": "/partner" },
+    { "name": " Explore partnerships", "to": "/become_a_packer" },
+    { "name": "Move For Us", "to": "/partner/movers" },
+    { "name": "Become A PacMan", "to": "/become_a_packer" }
+  ],
+  "services": [
+    {
+      "name": "Home Relocation",
+      "to": "/home-moves"
+    },
+    {
+      "name": "Office Relocation",
+      "to": "/office-moves"
+    },
+    {
+      "name": "International Relocation",
+      "to": "/international-relocations"
+    },
+    {
+      "name": "Junk Removal",
+      "to": "/Junk-moves"
+    },
+    {
+      "name": "Storage",
+      "to": "/storage"
+    },
+    {
+      "name": "Interstate Car Transport",
+      "to": "/Interstate-Car-Transport"
+    },
+    {
+      "name": "Wedding Handling",
+      "to": "/wedding-handling"
+    },
+    {
+      "name": "Store Delivery",
+      "to": "/store-delivery"
+    },
+    {
+      "name": "Cleaning Services",
+      "to": "/cleaning"
+    }
+  ]
+}
